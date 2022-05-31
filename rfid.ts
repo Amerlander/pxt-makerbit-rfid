@@ -1,6 +1,6 @@
 // MakeCode extension for PN532 NFC RFID module
 
-let RFID_DEBUG = false;
+let RFID_DEBUG = true;
 
 /*
 let serial: any;
